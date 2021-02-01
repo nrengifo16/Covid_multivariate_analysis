@@ -1,1 +1,2 @@
 # Covid_multivariate_analysis
+El propósito de este trabajo es realizar un análisis estadístico multivariante a varios países afectados por el coronavirus. Utilizando variables como la capacidad médica, la mortalidad, el número de pruebas realizadas, las inversiones económicas entre otras. Con estas variables realizar modelos de regresión robusta y no paramétricos para buscar relaciones significativas entre ellas. De igual manera, análisis de componentes principales robusto y por último métodos de clasificación sobre los países para determinar si estaba preparado o no.
